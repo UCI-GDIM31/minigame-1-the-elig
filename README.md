@@ -1,1 +1,1 @@
-games? unlimited games? 
+Components, GameObjects, and Scenes are like nesting dolls. Each serve as a bigger category for the other to fall into, holding instructions that tell the next biggest category what to do. Where Components are instructions for GameObjects, and GameObjects are instructions for Scenes.
